@@ -7,7 +7,7 @@ public class DemoBubbleSort {
         int size = nums.length;
         int temp = 0;
 
-        System.out.println("before sort");
+        System.out.println("Array before sort");
         for(int num : nums){
             System.out.print(num + " ");
         }
